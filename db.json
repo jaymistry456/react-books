@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "id": "0b1a"
+    },
+    {
+      "id": "9465",
+      "title": "Harry Potter and the Chamber of Secrets"
+    },
+    {
+      "id": "fd65",
+      "title": "Harry Potter and the Prisoner of Azkaban"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "id": "5350"
+    },
+    {
+      "id": "a2db",
+      "title": "Harry Potter and the Order of the Phoenix"
+    },
+    {
+      "id": "c65b",
+      "title": "Harry Potter and the Half-Blood Prince"
+    },
+    {
+      "id": "c46d",
+      "title": "Harry Potter and the Deathly Hallows"
+    }
+  ]
+}
